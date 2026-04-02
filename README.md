@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨‍💻 JWEB0689
 
-<!--
-**JWEB0689/JWEB0689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Hardened Android Kernel Developer | Automation Enthusiast
 
-Here are some ideas to get you started:
+## 🛠 Projects
+### [android-kernel-build](https://github.com/JWEB0689/android-kernel-build)
+Automated GitHub Actions pipeline for building hardened Android 13 (5.15 KMI) kernels for the Motorola Edge+ (rtwo). Includes KernelSU, SUSFS, and Zeromount.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Kernel Development:** Android GKI 2.0 (5.10/5.15), Defconfig optimization, LTO
+- **Android Root:** KernelSU, SUSFS, VFS patching, AnyKernel3
+- **DevOps:** GitHub Actions, CI/CD pipelines, Automation scripts
+
+## 📫 Connect with me
+- GitHub: [@JWEB0689](https://github.com/JWEB0689)
+
+---
+"Building more secure and efficient Android kernels, one commit at a time."
