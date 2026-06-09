@@ -25,6 +25,13 @@ A standalone, high-performance Python (FastAPI) token compression backend.
 <br>
 
 <div align="center">
+  <a href="https://github.com/JWEB0689">
+    <img src="https://ghchart.rshah.org/00BFFF/JWEB0689" alt="JWEB0689's Water Contribution Graph" />
+  </a>
+</div>
+
+<br>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0055FF&height=120&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
   <br><br>
   
