@@ -28,9 +28,9 @@ I'm currently focusing on developing optimized kernels for Snapdragon devices an
 <br/>
 <img src="https://myreadme.vercel.app/api/embed/JWEB0689?panels=userstatistics,toprepositories,commitgraph" alt="GitHub Stats" />
 
-### A rippling water effect across my contributions
+### A rainy effect across my contributions
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0055FF&height=120&section=header&text=Look%20at%20my%20grid%20below!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="rain.svg" width="100%" />
 
 ### Couple random trophies so it look like i'm really good at programming
 <br/>
