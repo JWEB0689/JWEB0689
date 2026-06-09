@@ -113,7 +113,7 @@ path_str = "M" + " L".join(path_points)
 root.set('xmlns', 'http://www.w3.org/2000/svg')
 
 ball = ET.SubElement(root, 'circle')
-ball.set('r', str(r))
+ball.set('r', '1.5')
 ball.set('fill', '#000000')
 anim_ball = ET.SubElement(ball, 'animateMotion')
 anim_ball.set('path', path_str)
