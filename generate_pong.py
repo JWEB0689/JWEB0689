@@ -43,13 +43,13 @@ bg = ET.Element('rect', {'x': '-20', 'y': '-10', 'width': str(orig_width + 40), 
 root.insert(0, bg)
 
 fps = 30
-duration = 15 # seconds
+duration = 30 # seconds
 frames = fps * duration
 
 ball_x = min_x + 50
 ball_y = min_y + 10
-vx = 250.0 / fps # faster!
-vy = 180.0 / fps
+vx = 125.0 / fps # slower
+vy = 90.0 / fps
 r = 1
 
 path_points = []
