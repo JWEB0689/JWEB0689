@@ -30,7 +30,7 @@ I'm currently focusing on developing optimized kernels for Snapdragon devices an
 
 ### My Contribution Graph
 <br/>
-<img src="https://ghchart.rshah.org/00BFFF/JWEB0689" alt="JWEB0689's Blue Contribution Chart" width="100%" />
+<img src="pong_chart.svg" alt="JWEB0689's Pong Contribution Chart" width="100%" />
 
 ### A rainy effect across my contributions
 <br/>
