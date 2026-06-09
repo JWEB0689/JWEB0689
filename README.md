@@ -1,4 +1,30 @@
 <div align="center">
+  <h2>Hi, I'm Jeremy 👋</h2>
+  <p><b>AI Systems Architect & Android Kernel Developer</b></p>
+</div>
+
+---
+
+### 🚀 What I Build
+
+I bridge the gap between low-level hardware constraints and high-level autonomous intelligence. My work spans from writing hardened, root-hidden custom Android kernels in C/Shell, to building lightning-fast native LLM Desktop applications in React, TypeScript, and Python.
+
+---
+
+### 🧠 Featured: AI Architecture
+
+#### [Agent Desktop](https://github.com/JWEB0689/Agent)
+A local-first AI development environment built on Electron and React.
+- **Native Gemini & Local LLM support** with CORS bypasses.
+- **Model Context Protocol (MCP)** integration for universal tool usage.
+- **Visual Sandboxing**: Dynamically compile Javascript, render SVGs, and solve LaTeX directly in the timeline.
+
+#### [RTK Engine](https://github.com/JWEB0689/rtk-engine)
+A standalone, high-performance Python (FastAPI) token compression backend.
+
+<br>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0055FF&height=120&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
   <br><br>
   
