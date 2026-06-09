@@ -50,7 +50,7 @@ ball_x = min_x + 50
 ball_y = min_y + 10
 vx = 250.0 / fps # faster!
 vy = 180.0 / fps
-r = 3
+r = 1
 
 path_points = []
 paddle_left_y = []
