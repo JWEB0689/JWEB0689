@@ -1,38 +1,74 @@
-<div align="center">
-  <h2>Hi, I'm Jeremy 👋</h2>
-  <p><b>AI Systems Architect & Android Kernel Developer</b></p>
+## 👋 Hi there! I'm Jeremy Weber 
+<br/><br/>
+I'm an Android Kernel Developer & Systems Architect. 
+
+<br/>
+
+💻 I bridge the gap between low-level hardware constraints and high-performance software. My work focuses on custom Android kernels, KernelSU integrations, and automated build pipelines. 🚀
+<br/>
+<br/>
+
+I'm currently focusing on developing optimized kernels for Snapdragon devices and advancing my systems engineering skills. 🔭🌐
+<br/>
+<br/>
+
+### Languages & Tools
+<div>
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">&nbsp;
 </div>
+<br/>
 
----
+### Global Github stats
+<br/>
+<img src="https://myreadme.vercel.app/api/embed/JWEB0689?panels=userstatistics,toprepositories,commitgraph" alt="GitHub Stats" />
 
-### 🚀 What I Build
+### A rippling water effect across my contributions
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0055FF&height=120&section=header&text=Look%20at%20my%20grid%20below!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-I bridge the gap between low-level hardware constraints and high-level autonomous intelligence. My work spans from writing hardened, root-hidden custom Android kernels in C/Shell, to building lightning-fast native LLM Desktop applications in React, TypeScript, and Python.
+### Couple random trophies so it look like i'm really good at programming
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=JWEB0689&theme=juicyfresh&no-bg=true" />
 
----
+### All My Repositories
+<details>
+<summary>Click to expand</summary>
 
-### 🧠 Featured: AI Architecture
+- [Action-Build](https://github.com/JWEB0689/Action-Build)
+- [AIK](https://github.com/JWEB0689/AIK)
+- [android-kernel-build](https://github.com/JWEB0689/android-kernel-build)
+- [Android-Kernel-Builder](https://github.com/JWEB0689/Android-Kernel-Builder)
+- [android_device_motorola_rtwo](https://github.com/JWEB0689/android_device_motorola_rtwo)
+- [android_kernel_motorola_sm8550](https://github.com/JWEB0689/android_kernel_motorola_sm8550)
+- [android_kernel_qcom_sm8550](https://github.com/JWEB0689/android_kernel_qcom_sm8550)
+- [android_kernel_sony_sm8550](https://github.com/JWEB0689/android_kernel_sony_sm8550)
+- [AnyKernel3](https://github.com/JWEB0689/AnyKernel3)
+- [deb-to-ipa](https://github.com/JWEB0689/deb-to-ipa)
+- [DeNoiser](https://github.com/JWEB0689/DeNoiser)
+- [Dopamine2-roothide](https://github.com/JWEB0689/Dopamine2-roothide)
+- [Get_My_Kernel_Format](https://github.com/JWEB0689/Get_My_Kernel_Format)
+- [GKI_KernelSU_SUSFS-Motorola-5.1513](https://github.com/JWEB0689/GKI_KernelSU_SUSFS-Motorola-5.1513)
+- [ionicons](https://github.com/JWEB0689/ionicons)
+- [ios-signer-ci](https://github.com/JWEB0689/ios-signer-ci)
+- [JWEB0689](https://github.com/JWEB0689/JWEB0689)
+- [jweb0689.github.io](https://github.com/JWEB0689/jweb0689.github.io)
+- [kernel-build-action](https://github.com/JWEB0689/kernel-build-action)
+- [kernel-msm-android13-5.15](https://github.com/JWEB0689/kernel-msm-android13-5.15)
+- [KernelForge](https://github.com/JWEB0689/KernelForge)
+- [KernelForge-App](https://github.com/JWEB0689/KernelForge-App)
+- [KernelPatch](https://github.com/JWEB0689/KernelPatch)
+- [KernelSU](https://github.com/JWEB0689/KernelSU)
+- [KernelSU_Action](https://github.com/JWEB0689/KernelSU_Action)
+- [kernel_build_scripts](https://github.com/JWEB0689/kernel_build_scripts)
+- [kernel_motorola_sm8550](https://github.com/JWEB0689/kernel_motorola_sm8550)
+- [kernel_msm-5.15](https://github.com/JWEB0689/kernel_msm-5.15)
+- [kernel_samsung_sm8550-commom](https://github.com/JWEB0689/kernel_samsung_sm8550-commom)
+- [KPatch-Next-Module](https://github.com/JWEB0689/KPatch-Next-Module)
 
-#### [Agent Desktop](https://github.com/JWEB0689/Agent)
-A local-first AI development environment built on Electron and React.
-- **Native Gemini & Local LLM support** with CORS bypasses.
-- **Model Context Protocol (MCP)** integration for universal tool usage.
-- **Visual Sandboxing**: Dynamically compile Javascript, render SVGs, and solve LaTeX directly in the timeline.
-
-#### [RTK Engine](https://github.com/JWEB0689/rtk-engine)
-A standalone, high-performance Python (FastAPI) token compression backend.
-
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0055FF&height=120&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-  <br><br>
-  
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,gcp" /><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c,cpp,rust,java,python" /><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs" /><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html,css,tailwind,postgres,git" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,github,azure,aws,cloudflare" /><br>
-  
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0055FF&height=120&section=footer" width="100%" />
-</div>
+</details>
