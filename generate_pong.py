@@ -114,7 +114,7 @@ root.set('xmlns', 'http://www.w3.org/2000/svg')
 
 ball = ET.SubElement(root, 'circle')
 ball.set('r', str(r))
-ball.set('fill', '#ffffff')
+ball.set('fill', '#000000')
 anim_ball = ET.SubElement(ball, 'animateMotion')
 anim_ball.set('path', path_str)
 anim_ball.set('dur', f"{duration}s")
