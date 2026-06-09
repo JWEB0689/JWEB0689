@@ -26,7 +26,11 @@ I'm currently focusing on developing optimized kernels for Snapdragon devices an
 
 ### Global Github stats
 <br/>
-<img src="https://myreadme.vercel.app/api/embed/JWEB0689?panels=userstatistics,toprepositories,commitgraph" alt="GitHub Stats" />
+<img src="https://myreadme.vercel.app/api/embed/JWEB0689?panels=userstatistics,toprepositories" alt="GitHub Stats" />
+
+### My Contribution Graph
+<br/>
+<img src="https://ghchart.rshah.org/00BFFF/JWEB0689" alt="JWEB0689's Blue Contribution Chart" width="100%" />
 
 ### A rainy effect across my contributions
 <br/>
