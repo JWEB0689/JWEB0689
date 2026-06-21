@@ -1,14 +1,14 @@
 ## 👋 Hi there! I'm Jeremy Weber 
 <br/><br/>
-I'm an Android Kernel Developer & Systems Architect. 
+I'm a Systems Architect. 
 
 <br/>
 
-💻 I bridge the gap between low-level hardware constraints and high-performance software. My work focuses on custom Android kernels, KernelSU integrations, and automated build pipelines. 🚀
+💻 I bridge the gap between low-level hardware constraints and high-performance software. My work focuses on custom integrations, and automated build pipelines. 🚀
 <br/>
 <br/>
 
-I'm currently focusing on developing optimized kernels for Snapdragon devices and advancing my systems engineering skills. 🔭🌐
+I'm currently focusing on developing ???????????????. 🔭🌐
 <br/>
 <br/>
 
@@ -27,7 +27,7 @@ I'm currently focusing on developing optimized kernels for Snapdragon devices an
 ### Global Github stats
 <br/>
 <img src="https://myreadme.vercel.app/api/embed/JWEB0689?panels=userstatistics,toprepositories" alt="GitHub Stats" />
-
+<br/>
 ### My Contribution Graph
 <br/>
 <img src="pong_chart.svg" alt="JWEB0689's Pong Contribution Chart" width="100%" />
