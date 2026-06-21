@@ -27,7 +27,7 @@ I'm currently focusing on developing ???????????????. 🔭🌐
 ### Global Github stats
 <br/>
 <img src="https://myreadme.vercel.app/api/embed/JWEB0689?panels=userstatistics,toprepositories" alt="GitHub Stats" />
-<br/>
+</br>
 ### My Contribution Graph
 <br/>
 <img src="pong_chart.svg" alt="JWEB0689's Pong Contribution Chart" width="100%" />
