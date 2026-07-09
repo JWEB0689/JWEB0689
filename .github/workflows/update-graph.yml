@@ -1,0 +1,34 @@
+name: Update Pong Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate Pong Graph
+        run: |
+          # python generate_pong.py
+          echo "Placeholder: Script needs to be updated to not use local macOS paths before running in CI."
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "49634855+JWEB0689@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add pong_chart.svg || true
+          git commit -m "chore: auto-update pong graph" || true
+          git push
