@@ -1,7 +1,26 @@
 import xml.etree.ElementTree as ET
 import re
+import urllib.request
+import os
 
-tree = ET.parse('/Users/jeremyweber/Documents/JWEB0689/chart_raw.svg')
+USERNAME = "JWEB0689"
+# Optionally fetch a dynamic contribution graph if possible, 
+# or look for a locally downloaded 'chart_raw.svg' generated in CI
+chart_path = 'chart_raw.svg'
+
+# Since GitHub doesn't natively provide raw SVG contributions via unauthenticated API easily,
+# usually folks download it via an action first (e.g. Platane/snk or scraping). 
+# For this script to not fail immediately without hardcoded paths:
+if not os.path.exists(chart_path):
+    print(f"File {chart_path} not found. Please ensure the raw graph SVG is downloaded before running this script.")
+    # Create a dummy SVG to avoid crashing if it's missing (for testing)
+    dummy_svg = '''<svg width="674" height="124" xmlns="http://www.w3.org/2000/svg">
+        <rect x="0" y="0" width="10" height="10" fill="#EEEEEE"/>
+    </svg>'''
+    with open(chart_path, "w") as f:
+        f.write(dummy_svg)
+
+tree = ET.parse(chart_path)
 root = tree.getroot()
 
 for elem in root.iter():
@@ -145,4 +164,4 @@ anim_rp.set('dur', f"{duration}s")
 anim_rp.set('repeatCount', 'indefinite')
 
 ET.register_namespace('', 'http://www.w3.org/2000/svg')
-tree.write('/Users/jeremyweber/Documents/JWEB0689/pong_chart.svg', xml_declaration=True, encoding='utf-8')
+tree.write('pong_chart.svg', xml_declaration=True, encoding='utf-8')
