@@ -24,6 +24,8 @@ I'm currently focusing on developing ???????????????. 🔭🌐
 </div>
 <br/>
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/JWEB0689/RuView?utm_source=oss&utm_medium=github&utm_campaign=JWEB0689%2FRuView&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 ### Global Github stats
 <br/>
 <img src="https://myreadme.vercel.app/api/embed/JWEB0689?panels=userstatistics,toprepositories" alt="GitHub Stats" />
